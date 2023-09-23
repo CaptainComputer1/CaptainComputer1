@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning programming languages, operating systems and artificial intelligence.
 - 💞️ I’m looking to collaborate on projects from school and other places.
-- 📫 How to reach me: minghualawrence8899@gmail.com
+- 📫 How to reach me: seanlawrence89@outlook.com.
 
 <!---
 CaptainComputer1/CaptainComputer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
