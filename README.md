@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @CaptainComputer1
-- 👀 I’m interested in computer programming.
+- 👋 Hi, I’m Sean Lawrence, AKA @CaptainComputer1.
+- 🖥 I’m interested in computer programming.
 - 🌱 I’m currently learning programming languages like Python, C++, Java, and JavaScript, software engineering and artificial intelligence.
-- 💞️ I’m looking to collaborate on projects from school, companies and other places.
+- 💞️ I also love to hang out with friends, watch Marvel and other movies, exercise and eat healthy, and just have a great time!
+- 👀 I’m looking to collaborate on projects from school, companies and other places.
 - 📫 How to reach me: seanlawrence89@outlook.com.
 
 <!---
